@@ -12,8 +12,6 @@ This project presents an interactive Excel Dashboard for analyzing Walmart sales
 🔹 Tools Used: Microsoft Excel, Pivot Tables, Pivot Charts, Slicers, Conditional Formatting.
 🔹 Use Case: Retail Sales Analysis, Business Decision-Making, Trend Prediction.
 
-📂 Dataset: Walmart sales dataset (dummy or publicly available).
-
 🚀 How to Use:
 
 Open the Excel file.
