@@ -1,19 +1,29 @@
-# Excel-Project
-This project presents an interactive Excel Dashboard for analyzing Walmart sales data.
+## 🚀 Project Overview
 
-## It provides key business insights, including:
+This project focuses on building an interactive sales dashboard using Excel and Power BI to analyze Walmart’s sales performance. It provides key insights into total sales, profit trends, return rates, and customer segmentation, enabling data-driven decision-making.
 
-✅ Sales Performance – Track revenue trends across different time periods.
-✅ Product Analysis – Identify top-selling products and categories.
-✅ Store Performance – Compare sales across various store locations.
-✅ Customer Insights – Analyze purchase behavior and trends.
-✅ Dynamic Visuals – Interactive charts, slicers, and pivot tables for easy data exploration.
+## 📌 Key Features
 
-🔹 Tools Used: Microsoft Excel, Pivot Tables, Pivot Charts, Slicers, Conditional Formatting.
-🔹 Use Case: Retail Sales Analysis, Business Decision-Making, Trend Prediction.
+✅ Data Cleaning & Transformation – Processed raw sales data to ensure accuracy and consistency.
+✅ Interactive Dashboard – Designed a dynamic dashboard using Pivot Tables, Slicers, and Charts in Excel.
+✅ Advanced Data Visualization – Implemented Power BI to create insightful reports and trend analysis.
+✅ Automated Insights – Enabled real-time filtering and drill-down capabilities for deeper analysis.
 
-🚀 How to Use:
+## 🛠 Technologies Used
 
-Open the Excel file.
-Explore interactive filters and visualizations.
-Gain insights into sales trends and performance metrics.
+🔹 Excel – Pivot Tables, VLOOKUP, Slicers, Charts🔹 Power BI – Data Modeling, DAX, Visualizations🔹 SQL (Optional, if used) – Data extraction and aggregation
+
+## 📈 Project Insights
+
+Identified top-performing products and regions contributing to revenue growth.
+
+Analyzed return trends to minimize product losses and optimize inventory management.
+
+Provided actionable business recommendations based on sales performance trends.
+
+## 📂 Dataset
+
+The dataset contains order details, customer information, and return data for Walmart transactions.
+
+
+![image](https://github.com/user-attachments/assets/921b796e-ea72-4f4f-ba26-2ebbada8d581)
