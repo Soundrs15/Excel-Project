@@ -4,14 +4,14 @@ This project focuses on building an interactive sales dashboard using Excel and 
 
 ## 📌 Key Features
 
-✅ Data Cleaning & Transformation – Processed raw sales data to ensure accuracy and consistency.
-✅ Interactive Dashboard – Designed a dynamic dashboard using Pivot Tables, Slicers, and Charts in Excel.
-✅ Advanced Data Visualization – Implemented Power BI to create insightful reports and trend analysis.
-✅ Automated Insights – Enabled real-time filtering and drill-down capabilities for deeper analysis.
+* ✅ Data Cleaning & Transformation – Processed raw sales data to ensure accuracy and consistency.
+* ✅ Interactive Dashboard – Designed a dynamic dashboard using Pivot Tables, Slicers, and Charts in Excel.
+* ✅ Advanced Data Visualization – Implemented Power BI to create insightful reports and trend analysis.
+* ✅ Automated Insights – Enabled real-time filtering and drill-down capabilities for deeper analysis.
 
 ## 🛠 Technologies Used
 
-🔹 Excel – Pivot Tables, VLOOKUP, Slicers, Charts🔹 Power BI – Data Modeling, DAX, Visualizations🔹 SQL (Optional, if used) – Data extraction and aggregation
+🔹 Excel – Pivot Tables, VLOOKUP, Slicers, Charts
 
 ## 📈 Project Insights
 
